@@ -14,13 +14,13 @@ const require = createRequire(__dirname)
 const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo
-global.Propietario = dPkg.author.name
-global.OwnerNum = '51995386439'
+global.Propietario = candra.author.name
+global.OwnerNum = '089562929600'
 global.PaisPrefix = '51'
 global.Prefijo = '.'
 global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //vMD
-global.BotVersion = dPkg.version
+global.NombreDelBot = 'CAN_BOT' //vMD
+global.BotVersion = can1.version
 global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
 global.UsLimitesCmd = '20'
 global.MinimoDeUsuarios = '2'
@@ -33,11 +33,11 @@ global.owner = [
 global.mods = []
 
 global.APIs = {
-  name: 'https://website'
+  name: 'https://saipulanuar.ga'
 }
 
 global.APIKeys = {
-  'https://website': 'apikey'
+  'https://saipulanuar.ga': 'fvFnMgB7 '
 }
 
 global.multiplier = 1000
